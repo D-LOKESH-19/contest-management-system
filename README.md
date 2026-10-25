@@ -18,3 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 #contest management system , it supports the event , contest or invitation for events to condut n track the status n supports leadboard system , dashboard support
 we have admin and the public view. admin cn control the events n score control in the leader board , were instant update in the pubic view .
+admin can manage the teams member list n the allow to apper in the leadeboard or not. which cn make analyis evn for more then one events at a once to update the lead board , so user cn view at a once all the events organized 
